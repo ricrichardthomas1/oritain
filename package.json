@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "start": "npm install xlsx && npm install moment && node excel.js"
+  }
+}
+
